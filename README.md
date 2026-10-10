@@ -2,6 +2,12 @@
 
 A Streamlit-based chat application that connects to [OpenRouter](https://openrouter.ai)'s API, allowing you to chat with multiple AI models (Gemini, GPT, Claude, Llama, and more) through a single unified interface.
 
+🔗 **Live Demo:** (https://chat-fr6zvj2kfkccdryjbjjpov.streamlit.app/)
+
+A Streamlit-based chat application that connects to [OpenRouter](https://openrouter.ai)'s API, allowing you to chat with multiple AI models (Gemini, GPT, Claude, Llama, and more) through a single unified interface.
+
+![App Screenshot](Chathub.png)
+
 ## Features
 
 - 💬 Clean, chat-style UI built with Streamlit
